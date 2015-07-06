@@ -1,0 +1,1 @@
+on va crée une nouvelle version de jeu de l'oie en utilisant la bibliothèque sdl.
